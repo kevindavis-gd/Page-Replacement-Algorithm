@@ -1,5 +1,7 @@
 # Page-Replacement-Algorithm
-Custom 3rd chance page replacement algorithm <br> <br>
+Custom 3rd chance page replacement algorithm <br>  
+Combination of second chance and FIFO page replacement algorithms <br>
+
 
 <pre>
 Output <br>
